@@ -1,0 +1,55 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Test",
+  "image": "",
+  "@id": "",
+  "url": "",
+  "telephone": "",
+  "priceRange": "$100",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "",
+    "addressRegion": "AL",
+    "postalCode": "",
+    "addressCountry": "US"
+  },
+  "serviceArea": { 
+"@type": "GeoCircle", 
+  "address": { 
+      "@type": "PostalAddress", 
+      "streetAddress": "123 Your Street #105", 
+      "addressLocality": "Boulder",
+      "id":"https://en.wikipedia.org/wiki/Boulder,_Colorado",
+      "addressRegion": "CO", 
+      "postalCode": "80301", 
+      "addressCountry": "US" 
+              }, 
+      "geoRadius": "160934" 
+                  },
+ "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "sameAs": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+</script>
