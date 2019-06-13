@@ -3,11 +3,11 @@
   "@context": "https://schema.org",
   "@type": "Dentist",
   "additionaltype":"https://www.wikidata.org/wiki/Q118301",
-  "name": "Test",
-  "image": "",
-  "@id": "",
-  "url": "",
-  "telephone": "",
+  "name": "Dentist Business name",
+  "image": "dentist-business-logo.jpg",
+  "@id": "https://dummydentist.com",
+  "url": "https://dummydentist.com",
+  "telephone": "+123432243",
   "priceRange": "$100",
   "address": {
     "@type": "PostalAddress",
@@ -45,9 +45,9 @@
     "closes": "23:59"
   },
   "sameAs": [
-    "",
-    "",
-    "",
+    "http://facebook.com/dummydentist",
+    "https:/twitter.comdummydentist",
+    "https://tumblr.dummydentist.com",
     "",
     "",
     ""
