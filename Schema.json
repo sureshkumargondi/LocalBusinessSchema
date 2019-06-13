@@ -1,7 +1,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
+  "@type": "Dentist",
   "additionaltype":"https://www.wikidata.org/wiki/Q118301",
   "name": "Test",
   "image": "",
@@ -13,7 +13,7 @@
     "@type": "PostalAddress",
     "streetAddress": "",
     "addressLocality": "",
-    "addressRegion": "AL",
+    "addressRegion": "CO",
     "postalCode": "",
     "addressCountry": "US"
   },
