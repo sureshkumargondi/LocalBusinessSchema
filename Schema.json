@@ -2,6 +2,7 @@
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+  "additionaltype":"https://www.wikidata.org/wiki/Q118301",
   "name": "Test",
   "image": "",
   "@id": "",
