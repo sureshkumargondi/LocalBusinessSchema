@@ -1,4 +1,3 @@
-<script type="application/ld+json">
 {
   "additionalType": [
     "https://en.wikipedia.org/wiki/Locksmithing",
@@ -6,11 +5,7 @@
     "https://www.wikidata.org/wiki/Q18125",
     "https://www.wikidata.org/wiki/Q3479990"
   ],
-  "@context": {
-    "@vocab": "http://schema.org",
-    "goog": "http://schema.googleapis.com/",
-    "kg": "http://g.co/kg"
-  },
+  "@context": "http://schema.org",
   "@id": "https://www.auto-locksmiths.org/",
   "@type": "Locksmith",
   "address": {
@@ -18,8 +13,7 @@
     "addressLocality": "Manchester",
     "addressRegion": "Greater Manchester",
     "postalCode": "M1 1HP",
-    "streetAddress": "Picadilly Gardens",
-    "SameAs": "https://en.wikipedia.org/wiki/Manchester"
+    "streetAddress": "Picadilly Gardens"
   },
   "areaServed": [
     [
@@ -105,22 +99,28 @@
   "telephone": "0161 354 8709",
   "url": "https://www.auto-locksmiths.org/",
   "alternateName": "Auto Locksmith Miami",
-"brand": [{
-    "@type": "Organization",
-     "name": "audi",
-  "sameAs": [
-    "http://www.wikidata.org/entity/Q23317",
-    "https://en.wikipedia.org/wiki/Audi"
+  "brand": [
+    {
+      "@type": "Organization",
+      "name": "audi",
+      "SameAs": [
+        "http://www.wikidata.org/entity/Q23317",
+        "http://www.wikidata.org/entity/Q23334"
+      ],
+      "additionalType": "http://www.productontology.org/id/Audi",
+      "description": "automotive manufacturing subsidiary of Volkswagen Group"
+    },
+    {
+      "@type": "Organization",
+      "name": "bmw",
+      "SameAs": [
+        "http://www.wikidata.org/entity/Q23311",
+        "http://www.wikidata.org/entity/Q23323"
+      ],
+      "additionalType": "http://www.productontology.org/id/Audi",
+      "description": "automotive manufacturing subsidiary of Volkswagen Group"
+    }
   ],
-  "additionalType": "http://www.productontology.org/id/Audi",
-  "description": "automotive manufacturing subsidiary of Volkswagen Group"
-  },
-  {
-    "@type": "City",
-    "name": "Denver",
-    "sameAs": "https://en.wikipedia.org/wiki/Denver"
-  }] 
-},
   "currenciesAccepted": "GBP",
   "legalName": "Auto Locksmith Manchester",
   "makesOffer": {
@@ -165,4 +165,3 @@
     ]
   }
 }
-/<script>
