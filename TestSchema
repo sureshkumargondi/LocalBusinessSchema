@@ -1,0 +1,166 @@
+{
+  "additionalType": [
+    "https://en.wikipedia.org/wiki/Locksmithing",
+    "https://en.wikipedia.org/wiki/Manchester",
+    "https://www.wikidata.org/wiki/Q18125",
+    "https://www.wikidata.org/wiki/Q3479990"
+  ],
+  "@context": {
+    "@vocab": "http://schema.org",
+    "goog": "http://schema.googleapis.com/",
+    "kg": "http://g.co/kg"
+  },
+  "@id": "https://www.auto-locksmiths.org/",
+  "@type": "Locksmith",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Manchester",
+    "addressRegion": "Greater Manchester",
+    "postalCode": "M1 1HP",
+    "streetAddress": "Picadilly Gardens",
+    "SameAs": "https://en.wikipedia.org/wiki/Manchester"
+  },
+  "areaServed": [
+    [
+      "Manchester",
+      "Oldham",
+      "Rochdale",
+      "Salford",
+      "Bolton",
+      "Bury",
+      "Stockport",
+      "Didsbury",
+      "Withington",
+      "Sale",
+      "Leigh",
+      "Altrincham",
+      "Ashton Under Lyne",
+      "Middleton",
+      "Urmston",
+      "Eccles",
+      "Denton",
+      "Wilmslow",
+      "Chadderton",
+      "Romiley",
+      "Hyde",
+      "Glossop",
+      "Radcliffe",
+      "Heywood",
+      "Farnworth",
+      "Stretford",
+      "Stalybridge",
+      "Swinton",
+      "Westhoughton",
+      "Cheadle Hulme",
+      "Hindley",
+      "Golborne",
+      "Droylsden",
+      "Royton",
+      "Walkden",
+      "Gatley",
+      "Whitefield",
+      "Prestwich",
+      "Dukinfield",
+      "Irlam ",
+      "Horwich ",
+      "Hazel Grove",
+      "Failsworth",
+      "Shaw",
+      "Ramsbottom",
+      "Bramhall ",
+      "Hale",
+      "Tyldsley",
+      "Cheadle",
+      "Uppermill"
+    ]
+  ],
+  "description": "Manchesters Leading Auto Locksmith And Car Key Repair Service",
+  "email": "info@auto-locksmiths.org",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "53.4814",
+    "longitude": "-2.2346"
+  },
+  "image": "https://www.auto-locksmiths.org/images/1st%20response%20car%20key%20services%20logo%20transparent.png",
+  "logo": {
+    "@type": "ImageObject",
+    "height": {
+      "@type": "QuantitativeValue",
+      "value": "255"
+    },
+    "url": "https://www.auto-locksmiths.org/images/1st%20response%20car%20key%20services%20logo%20transparent.png",
+    "width": {
+      "@type": "QuantitativeValue",
+      "value": "255"
+    }
+  },
+  "name": "1st Response Auto Locksmith Manchester",
+  "openingHours": "Mon-Fri 08:00-18:00 Sat 10:00-18:00 Sun Closed",
+  "priceRange": "£££",
+  "sameAs": [
+    "https://twitter.com/MLA_locksmiths",
+    "https://www.facebook.com/MasterLocksmithAssociation/"
+  ],
+  "telephone": "0161 354 8709",
+  "url": "https://www.auto-locksmiths.org/",
+  "alternateName": "Auto Locksmith Miami",
+"brand": [{
+    "@type": "Organization",
+     "name": "audi",
+  "sameAs": [
+    "http://www.wikidata.org/entity/Q23317",
+    "https://en.wikipedia.org/wiki/Audi"
+  ],
+  "additionalType": "http://www.productontology.org/id/Audi",
+  "description": "automotive manufacturing subsidiary of Volkswagen Group"
+  },
+  {
+    "@type": "City",
+    "name": "Denver",
+    "sameAs": "https://en.wikipedia.org/wiki/Denver"
+  }] 
+},
+  "currenciesAccepted": "GBP",
+  "legalName": "Auto Locksmith Manchester",
+  "makesOffer": {
+    "@type": "Offer",
+    "itemOffered": [
+      "24 Hour Locksmith Service",
+      "Transponder Chip",
+      "Car locksmith",
+      "Locksmith 24 Hours",
+      "Locksmiths residencial",
+      "Locksmith commercial",
+      "Locksmith 24 Hours in Manchester",
+      "Auto Locksmiths",
+      "Locksmith near me",
+      "Car keys Manchester",
+      "Cars key remote control",
+      "unlock car service near me",
+      "Lock Change",
+      "Lock Re-Key",
+      "New Lock Installation",
+      "House Lockout Service",
+      "Mailbox Lockout",
+      "Mailbox change",
+      "Transponder Key Programming",
+      "File Cabinet Change",
+      "Car Key Duplicate",
+      "Car Key Extraction",
+      "Car Lockout Service",
+      "Service Call Fee",
+      "Transponder key extraction or duplication services",
+      "24/7 emergency car lockout services",
+      "Jammed ignition repair, no matter the make or model of the car",
+      "Transponder key reprogramming",
+      "Car lock repair",
+      "Broken key extraction from locks car and ignitions",
+      "Vehicle unlocking services in case of emergencies",
+      "Transponder keys",
+      "Smart keys",
+      "Proximity keys",
+      "Remote control",
+      "Simple keys for an older cars"
+    ]
+  }
+}
